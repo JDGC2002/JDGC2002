@@ -1,16 +1,32 @@
-## Hi there 👋
+### 🗝️ Hi there
 
-<!--
-**JDGC2002/JDGC2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer who enjoys programming, data and AI.
 
-Here are some ideas to get you started:
+### 🌙 Find me here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/jhon-diego-gomez-cifuentes/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+### 🔥 Rest by the Fire
+
+<img src="https://jdgc-campfire.jdgc2002.workers.dev/image" width="480" alt="A chibi dark fantasy knight resting beside a campfire with a dog companion" />
+<br />
+<img src="https://jdgc-campfire.jdgc2002.workers.dev/caption.svg" width="480" alt="Current campfire status" />
+
+<p>
+  <a href="https://jdgc-campfire.jdgc2002.workers.dev/action/pet">
+    <img alt="Pet the dog" src="https://img.shields.io/badge/PET_THE_DOG-6B8E6E?style=for-the-badge" />
+  </a>
+  <a href="https://jdgc-campfire.jdgc2002.workers.dev/action/eat">
+    <img alt="Eat" src="https://img.shields.io/badge/EAT-9B5E3C?style=for-the-badge" />
+  </a>
+  <a href="https://jdgc-campfire.jdgc2002.workers.dev/action/drink">
+    <img alt="Drink" src="https://img.shields.io/badge/DRINK-6D405A?style=for-the-badge" />
+  </a>
+  <a href="https://jdgc-campfire.jdgc2002.workers.dev/action/rest">
+    <img alt="Rest" src="https://img.shields.io/badge/REST-30363D?style=for-the-badge" />
+  </a>
+</p>
